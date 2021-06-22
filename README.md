@@ -1,6 +1,6 @@
 # Careers
 
-This repo contains the job openings at BitSong (including projects like BitSong Blockexplorer, Wallet or Blockchain Modules)
+This repo contains the job openings at BitSong (including projects such as [BitSong website](https://bitsong.io/), [BitSong Blockexplorer](https://explorebitsong.com/), Blockchain Wallet or Blockchain Modules)
 
 ## About us
 
