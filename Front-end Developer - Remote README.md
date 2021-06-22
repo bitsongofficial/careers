@@ -54,3 +54,4 @@ This role is a full-time remote position, and you’re free to work from anywher
 - Competitive salary, in cryptocurrencies
 
 
+Send your application to: hello@bitsong.io
