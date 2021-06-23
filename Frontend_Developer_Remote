@@ -55,3 +55,7 @@ This role is a full-time remote position, and you’re free to work from anywher
 
 
 Send your application to: hello@bitsong.io
+
+BitSong is committed to ensuring the security and protection of the personal information that we process, and to provide a compliant and consistent approach to data protection.
+Under the General Data Protection Regulation (GDPR) (EU) 2016/679, we have a legal duty to protect any information we collect from you. Information contained in the emails you send us and any attachments may be privileged or confidential and intended for the exclusive use of the original recipient.
+
