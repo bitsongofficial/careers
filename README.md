@@ -25,4 +25,5 @@ For enquiry on our job openings, please reach out via email (hello@bitsong.io).
 ## Current Career Opportunities
 
 [Front-end Developer - Remote](https://github.com/bitsongofficial/careers/blob/main/Frontend_Developer_Remote)
+
 [Full-stack Developer - Remote](https://github.com/bitsongofficial/careers/blob/main/Fullstack_Developer_Remote)
