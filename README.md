@@ -19,9 +19,9 @@ Communication is vital to us, and we rely heavily on Google Workspace, Telegram,
 
 Be advised that most team meetings occur between 10am and 8pm CET Time. If you're applying from a location where these hours are outside your usual working hours, we expect you to adapt to our meeting times.
 
-## Contacts
-For enquiry on our job openings, please reach out via email (hello@bitsong.io).
-
 ## Current Career Opportunities
 
 [Front-end Developer - Remote](https://github.com/bitsongofficial/careers/blob/main/Frontend_Developer_Remote)
+
+## Contacts
+For enquiry on our job openings, please reach out via email (hello@bitsong.io).
