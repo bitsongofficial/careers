@@ -21,7 +21,7 @@ Be advised that most team meetings occur between 10am and 8pm CET Time. If you'r
 
 ## Current Career Opportunities
 
-[Full-stack Developer - Remote](hhttps://github.com/bitsongofficial/careers/blob/main/Fullstack_Developer_Remote.md)
+[Full-stack Developer - Remote](https://github.com/bitsongofficial/careers/blob/main/Fullstack_Developer_Remote.md)
 
 [Front-end Developer - Remote](https://github.com/bitsongofficial/careers/blob/main/Frontend_Developer_Remote.md)
 
